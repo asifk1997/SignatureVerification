@@ -4,6 +4,6 @@
 
 Convolutional Siamese network for signature verification task.
 
-Read about the detailed description of the project in DL Report.
+Read about the detailed description of the project, training and screenshots in DL Report.
 
 
